@@ -8,7 +8,7 @@ export default defineAstroPaperConfig({
     author: "esantsil",
     profile: "",
     ogImage: "default-og.jpg",
-    lang: "pt-br",
+    lang: "en",
     timezone: "Asia/Bangkok",
     dir: "ltr",
   },
