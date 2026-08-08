@@ -12,6 +12,7 @@ export default defineAstroPaperConfig({
     timezone: "Asia/Bangkok",
     dir: "ltr",
   },
+  base: "/supahero.github.io,
   posts: {
     perPage: 4,
     perIndex: 4,
