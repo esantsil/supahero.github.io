@@ -2,13 +2,13 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
+    url: "https://supahero.github.io/",
+    title: "SupaHero",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
+    author: "esantsil",
+    profile: "",
     ogImage: "default-og.jpg",
-    lang: "en",
+    lang: "pt-br",
     timezone: "Asia/Bangkok",
     dir: "ltr",
   },
@@ -24,15 +24,15 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      url: "https://github.com/esantsil/astro-paper/edit/main/",
     },
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "github",   url: "" },
+    { name: "x",        url: "" },
+    { name: "linkedin", url: "" },
+    { name: "mail",     url: "" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
